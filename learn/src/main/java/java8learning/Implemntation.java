@@ -8,7 +8,7 @@ public class Implemntation {
             return a + b;
         };
 
-        System.out.println(obj.sum(3, 4));
+        System.out.println(obj.multiply(3, 4));
     }
 
 }
