@@ -1,3 +1,17 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "text": "generate a readme file beautifully- add emojis as well and if alraedy avaibale pls update it accordindingly"
+        }
+    ],
+    "github.copilot.chat.reviewSelection.instructions": [
+        {
+            "text": "alwys chcek propeer comments before commit"
+        }
+    ],
+    "github.copilot.chat.commitMessageGeneration.instructions": [{
+
+        "text":"add deatiled commit message for all the file which being created newly or updated and add emojis as well"
+    }]
 }
