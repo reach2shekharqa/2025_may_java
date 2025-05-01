@@ -5,10 +5,10 @@ public class Implemntation {
     public static void main(String[] args) {
 
         Anonymus obj = (int a, int b) -> {
-            return a + b;
+            return a % b;
         };
 
-        System.out.println(obj.multiply(3, 4));
+        System.out.println(obj.divide(3, 4));
     }
 
 }

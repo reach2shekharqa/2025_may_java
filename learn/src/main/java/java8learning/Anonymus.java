@@ -2,6 +2,6 @@ package java8learning;
 
 public interface Anonymus {
 
-    long multiply(int a , int b);
+    long divide(int a , int b);
     
 }
