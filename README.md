@@ -53,8 +53,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community
 
 ## Contact 📬
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: reach2shekharqa@example.com
+- GitHub: [@yourusername](https://github.com/reach2shekharqa/)
 
 
 
