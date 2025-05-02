@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📬
 - Email: reach2shekharqa@example.com
-- GitHub: [@yourusername](https://github.com/reach2shekharqa/)
+- GitHub: [@reach2shekharqa](https://github.com/reach2shekharqa/)
 
 
 
