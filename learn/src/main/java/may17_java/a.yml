@@ -1,0 +1,4 @@
+login:
+  username:
+    type: textbox
+    locator: "#id"
