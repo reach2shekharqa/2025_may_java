@@ -1,0 +1,62 @@
+login:
+  fname:
+    type: textbox
+    locator: "#firstName"
+    locatorType: css
+    value: chandra shekhar
+
+  lname:
+    type: textbox
+    locator: "#lastName"
+    locatorType: css
+    value: pandey
+  
+  email:
+    type: textbox
+    locator: "#userEmail"
+    locatorType: css
+    value: cspandey3000@gmail.com
+
+  gender:
+    type: radiobutton
+    locator: "//label[@for='gender-radio-1']"
+    locatorType: xpath
+    value: ""
+
+  mobile:
+    type: textbox
+    locator: userNumber
+    locatorType: id
+    value: "8506806998"
+  
+  dob:
+    type: datepicker
+    locator: dateOfBirthInput
+    locatorType: id
+    value: "18 May 1986"
+
+  upload:
+    type: file
+    locator: uploadPicture
+    locatorType: id
+    value: "Prompt_Engineering_GitHub_Copilot.pptx"
+
+  hobbies:
+    type: checkbox
+    locator: "//label[@for='hobbies-checkbox-1']"
+    locatorType: xpath
+    value: "Sports"
+
+  state:
+    type: dropdown
+    locator: "state"
+    locatorType: id
+    value: "NCR"
+    optionsLocator: "#state .css-26l3qy-menu div div"
+
+  city:
+    type: dropdown
+    locator: "city"
+    locatorType: id
+    value: "Gurgaon"
+    optionsLocator: "#city .css-26l3qy-menu div div"
