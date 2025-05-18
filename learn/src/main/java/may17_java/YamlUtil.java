@@ -1,12 +1,8 @@
 package may17_java;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.InputStream;
 import java.util.LinkedHashMap;
 import java.util.Map;
-
-import org.yaml.snakeyaml.Yaml;
 
 public class YamlUtil {
 
