@@ -23,6 +23,18 @@ public class YamlUtil {
 
         System.out.println(finalsection);
 
+
+        //key - login 
+        //value - object[username]
+
+        for(Map.Entry<String,Object> entry : finalsection.entrySet()){
+
+            System.out.println(entry.getKey());
+            System.out.println(entry.getValue());
+        }
+
+
+
         // String filepath = "learn\\src\\main\\java\\may17_java\\a.yml";
 
         // System.out.println(filepath);
